@@ -753,19 +753,23 @@ CCTV-5+ 体育赛事,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgT
 漠河综合,rtmp://masterpull.hljtv.com/live/rlVvbTZN.m3u8
 塔河综合,rtmp://masterpull.hljtv.com/live/qXrATpGj.m3u8
 辽宁,#genre#
+大连综合,http://140.210.9.18:8800/SuanFaZhibo/live5/liaoning/dalian.php?id=dlzh
 大连综合,rtmp://secret.dltv.cn/dreamStreamCore/tcb3IB5/lv500
 大连综合,http://live.dltv.cn/tcb3IB5/500/b37hc43.m3u8
 大连综合,http://live.dltv.cn/tcb3IB5/500/y47tgb0.m3u8
 大连综合,http://120.76.248.139/live/bfgd/4200000273.m3u8
 大连综合,http://live.dltv.cn/tcb3IB5/500/327hcs3.m3u8
+大连生活,http://140.210.9.18:8800/SuanFaZhibo/live5/liaoning/dalian.php?id=dlsh
 大连生活,rtmp://secret.dltv.cn/dreamStreamCore/JzcFkF4/lv500
 大连生活,http://live.dltv.cn/JzcFkF4/500/e34hz4F.m3u8
 大连生活,http://live.dltv.cn/JzcFkF4/500/154Jgc0.m3u8
 大连生活,http://live.dltv.cn/JzcFkF4/500/624hzsF.m3u8
+大连文体,http://140.210.9.18:8800/SuanFaZhibo/live5/liaoning/dalian.php?id=dlwt
 大连文体,rtmp://secret.dltv.cn/dreamStreamCore/hxT7Fc3/lv500
 大连文体,http://live.dltv.cn/hxT7Fc3/500/u2ohx47.m3u8
 大连文体,http://live.dltv.cn/hxT7Fc3/500/h4omgT0.m3u8
 大连文体,http://live.dltv.cn/hxT7Fc3/500/m1ohxs7.m3u8
+大连乐天购物,http://140.210.9.18:8800/SuanFaZhibo/live5/liaoning/dalian.php?id=dlgw
 数字电视,#genre#
 Bread TV面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 NewTV爱情喜剧,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8
@@ -2300,4 +2304,5 @@ CCTV-16奥林匹克,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
 Dubai Sports 2,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 Dubai Sports 3,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
+
 
