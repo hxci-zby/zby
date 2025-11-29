@@ -2300,4 +2300,14 @@ CCTV-16奥林匹克,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
 Dubai Sports 2,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
 Dubai Sports 3,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
+超清频道,#genre#
+湖南卫视,https://migu.188766.xyz/?migutoken=cc8d0695ba30575cb9e4d64a9704476b&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
+浙江卫视,https://migu.188766.xyz/?migutoken=01a7f65ff02c12f11e64b1269b73184f&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
+江苏卫视,#EXTVLCOPT:referer=https://api.chinaaudiovisual.cn/
+东方卫视,#EXTVLCOPT:referer=https://live.kankanews.com/
+北京卫视,https://migu.188766.xyz/?migutoken=3aca4b518ebf795d167c76f40cf5df0f&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
+广东卫视,http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
+深圳卫视,https://migu.188766.xyz/?migutoken=87fba6205c84328314b665841490298c&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
+苏州4K,https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
+河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
 
