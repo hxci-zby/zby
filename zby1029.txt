@@ -128,6 +128,7 @@ CCTV-14 少儿,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4
 CCTV-15 音乐,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzE4My4yMjIuMjQyLjMxOjgwODgvaGxzLzE1L2luZGV4Lm0zdTg=
 CCTV-5+ 体育赛事,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzE4My4yMjIuMjQyLjMxOjgwODgvaGxzLzE2L2luZGV4Lm0zdTg=
 重温经典,https://other.ottiptv.cc/cwjd.m3u8
+重温经典,http://api.kklkwg.itv888.vip:8080/streams/214856d804c/index.m3u8
 重温经典,http://205.185.116.10:82/live/cwjd.m3u8?jsbt=1765108969&jsbk=5e363e4edb962b4d2bb4fcc044b2df5b
 重温经典,http://112.103.141.123:8083/hls/76/index.m3u8
 重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
@@ -2367,6 +2368,7 @@ ipanda大丰园区,http://gcalic.v.myalicdn.com/gc/xiongmao23_1/index.m3u8
 上海康桥收费站,https://rvsh.jtw.sh.gov.cn/live/310115a4-3d7c-4a7d-82dc-71fd4553e071_sub/index.m3u8?t=1900560747&k=39b8311fa57065ca#https://rvsh.jtw.sh.gov.cn/live/310115a4-3d7c-4a7d-82dc-71fd4553e069_sub/index.m3u8?t=1900560774&k=46ed14e81323f2f7
 上海G1503东大道,https://rvsh.jtw.sh.gov.cn/live/200120a4-3d7c-4a7d-82dc-71fdfef3e045_sub/index.m3u8?t=1902119605&k=2c3e3086e3191872
 上海临港大道东大公路,https://rvsh.jtw.sh.gov.cn/live/310120a4-3d7c-4a7d-82dc-71fde233e060_sub/index.m3u8?t=1902119782&k=e5d9cad0fb4bde78
+
 
 
 
