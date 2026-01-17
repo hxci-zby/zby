@@ -1,26 +1,26 @@
 央视，#类型#
-CCTV-1 综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-CCTV-2 财经,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
-CCTV-3 综艺,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
-CCTV-4 中文国际,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
-CCTV-5 体育,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-CCTV-5+ 体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-CCTV-6 电影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-CCTV-7 国防军事,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+CCTV-1 综合,http://ottrrs.hl.chinamobile.com/PLTV/8888888/224/3221226016/index.m3u8
+CCTV-2 财经,http://ottrrs.hl.chinamobile.com/PLTV/8888888/224/3221225588/index.m3u8
+CCTV-3 综艺,http://ottrrs.hl.chinamobile.com/PLTV/8888888/224/3221226021/index.m3u8
+CCTV-4 中文国际,http://ottrrs.hl.chinamobile.com/PLTV/8888888/224/3221226007/index.m3u8
+CCTV-5 体育,http://ottrrs.hl.chinamobile.com/PLTV/8888888/224/3221226019/index.m3u8
+CCTV-5+ 体育赛事,http://ottrrs.hl.chinamobile.com/PLTV/8888888/224/3221225603/index.m3u8
+CCTV-6 电影,http://ottrrs.hl.chinamobile.com/PLTV/8888888/224/3221226010/index.m3u8
+CCTV-7 国防军事,http://ottrrs.hl.chinamobile.com/PLTV/8888888/224/3221225733/index.m3u8
 CCTV-8 电视剧,http://ottrrs.hl.chinamobile.com/PLTV/8888888/224/3221226008/index.m3u8
-CCTV-9 纪录,http://ottrrs.hl.chinamobile.com/PLTV/8888888/224/3221225734/index.m3u8
-CCTV-10 科教,http://ottrrs.hl.chinamobile.com/PLTV/8888888/224/3221225730/index.m3u8
-CCTV-11 戏曲,http://ottrrs.hl.chinamobile.com/PLTV/8888888/224/3221225597/index.m3u8
-CCTV-12 社会与法,http://ottrrs.hl.chinamobile.com/PLTV/8888888/224/3221225731/index.m3u8
+CCTV-9 纪录,http://ottrrs.hl.chinamobile.com/PLTV/888888/224/3221225734/index.m3u8
+CCTV-10 科教,http://ottrrs.hl.chinamobile.com/PLTV/888888/224/3221225730/index.m3u8
+CCTV-11 戏曲,http://ottrrs.hl.chinamobile.com/PLTV/888888/224/3221225597/index.m3u8
+CCTV-12 社会与法,http://ottrrs.hl.chinamobile.com/PLTV/888888/224/3221225731/index.m3u8
 CCTV-13 新闻,http://ottrrs.hl.chinamobile.com/PLTV/888888/224/3221226011/index.m3u8
-CCTV-14 少儿,http://ottrrs.hl.chinamobile.com/PLTV/888888/224/3221225732/index.m3u8
-CCTV-15 音乐,http://ottrrs.hl.chinamobile.com/PLTV/888888/224/3221225601/index.m3u8
-CCTV-16 奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/888888/224/3221226100/index.m3u8
-CCTV-17 农业农村,http://ottrrs.hl.chinamobile.com/PLTV/888888/224/3221225765/index.m3u8
-CETV-1,http://ottrrs.hl.chinamobile.com/PLTV/888888/224/3221225652/index.m3u8
-CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/888888/224/3221225783/index.m3u8
-CGTN-英语,http://ottrrs.hl.chinamobile.com/PLTV/888888/224/3221225604/index.m3u8
-CGTN-纪录,http://ottrrs.hl.chinamobile.com/PLTV/888888/224/3221225602/index.m3u8
+CCTV-14 少儿,http://ottrrs.hl.chinamobile.com/PLTV/88888/224/3221225732/index.m3u8
+CCTV-15 音乐,http://ottrrs.hl.chinamobile.com/PLTV/88888/224/3221225601/index.m3u8
+CCTV-16 奥林匹克,http://ottrrs.hl.chinamobile.com/PLTV/88888/224/3221226100/index.m3u8
+CCTV-17 农业农村,http://ottrrs.hl.chinamobile.com/PLTV/88888/224/3221225765/index.m3u8
+CETV-1,http://ottrrs.hl.chinamobile.com/PLTV/88888/224/3221225652/index.m3u8
+CETV-4,http://ottrrs.hl.chinamobile.com/PLTV/88888/224/3221225783/index.m3u8
+CGTN-英语,http://ottrrs.hl.chinamobile.com/PLTV/88888/224/3221225604/index.m3u8
+CGTN-纪录,http://ottrrs.hl.chinamobile.com/PLTV/88888/224/3221225602/index.m3u8
 CCTV-1 综合,http://222.241.154.37:9901/tsfile/live/23001_1.m3u8
 CCTV-2 财经,http://222.241.154.37:9901/tsfile/live/23002_1.m3u8
 CCTV-3 综艺,http://222.241.154.37:9901/tsfile/live/23003_1.m3u8
@@ -2779,7 +2779,6 @@ Dubai Sports 2,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisport
 Dubai Sports 3,http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
 MBC体育,http://211.33.246.4:32954/cj_live/myStream.sdp/chunklist_w517347500.m3u8
 兔兔直播源,#group#
-
 央视频道,#genre#
 CCTV1综合,http://211.154.19.122:1323/yspidnew/ysppyid.php?c=MjAyNDA3ODIwMXw2MDAwMDE4NTl8Zmhk
 CCTV1综合,http://111.170.156.74:3344/央视/cctv.php?id=cctv1
@@ -5342,3 +5341,4 @@ lswl,http://111.170.156.74:3344/地方/地方/xizang/lasa.php?id=lswl
 宁夏经济频道,http://111.170.156.74:3344/宁夏频道/nx.php?ua=YWxpcGxheWVyKGFwcHY9MS4xLjQmYXY9Ny4yLjAmYXYyPTcuMi4wXzQ0OTYxMzU3Jm9zPWFuZHJvaWQmb3Y9MTImZG09U00tQTU1NjAp&referer=aHR0cHM6Ly9hcGkuY2hpbmFhdWRpb3Zpc3VhbC5jbi8=&mode=1&hls=aHR0cHM6Ly9obHMubmluZ3hpYWh1YW5naGV5dW4uY29tL2xpdmUvbnhqajFNLm0zdTg=
 宁夏文旅频道,http://111.170.156.74:3344/宁夏频道/nx.php?ua=YWxpcGxheWVyKGFwcHY9MS4xLjQmYXY9Ny4yLjAmYXYyPTcuMi4wXzQ0OTYxMzU3Jm9zPWFuZHJvaWQmb3Y9MTImZG09U00tQTU1NjAp&referer=aHR0cHM6Ly9hcGkuY2hpbmFhdWRpb3Zpc3VhbC5jbi8=&mode=1&hls=aHR0cHM6Ly9obHMubmluZ3hpYWh1YW5naGV5dW4uY29tL2xpdmUvbnh3bDFNLm0zdTg=
 宁夏少儿频道,http://111.170.156.74:3344/宁夏频道/nx.php?ua=YWxpcGxheWVyKGFwcHY9MS4xLjQmYXY9Ny4yLjAmYXYyPTcuMi4wXzQ0OTYxMzU3Jm9zPWFuZHJvaWQmb3Y9MTImZG09U00tQTU1NjAp&referer=aHR0cHM6Ly9hcGkuY2hpbmFhdWRpb3Zpc3VhbC5jbi8=&mode=1&hls=aHR0cHM6Ly9obHMubmluZ3hpYWh1YW5naGV5dW4uY29tL2xpdmUvbnhzZTFNLm0zdTg=
+
