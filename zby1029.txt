@@ -1,4 +1,5 @@
-央视，#类型#
+快直播,#group#
+央视,#genre#
 CCTV-1 综合,http://ottrrs.hl.chinamobile.com/PLTV/8888888/224/3221226016/index.m3u8
 CCTV-2 财经,http://ottrrs.hl.chinamobile.com/PLTV/8888888/224/3221225588/index.m3u8
 CCTV-3 综艺,http://ottrrs.hl.chinamobile.com/PLTV/8888888/224/3221226021/index.m3u8
@@ -5341,4 +5342,5 @@ lswl,http://111.170.156.74:3344/地方/地方/xizang/lasa.php?id=lswl
 宁夏经济频道,http://111.170.156.74:3344/宁夏频道/nx.php?ua=YWxpcGxheWVyKGFwcHY9MS4xLjQmYXY9Ny4yLjAmYXYyPTcuMi4wXzQ0OTYxMzU3Jm9zPWFuZHJvaWQmb3Y9MTImZG09U00tQTU1NjAp&referer=aHR0cHM6Ly9hcGkuY2hpbmFhdWRpb3Zpc3VhbC5jbi8=&mode=1&hls=aHR0cHM6Ly9obHMubmluZ3hpYWh1YW5naGV5dW4uY29tL2xpdmUvbnhqajFNLm0zdTg=
 宁夏文旅频道,http://111.170.156.74:3344/宁夏频道/nx.php?ua=YWxpcGxheWVyKGFwcHY9MS4xLjQmYXY9Ny4yLjAmYXYyPTcuMi4wXzQ0OTYxMzU3Jm9zPWFuZHJvaWQmb3Y9MTImZG09U00tQTU1NjAp&referer=aHR0cHM6Ly9hcGkuY2hpbmFhdWRpb3Zpc3VhbC5jbi8=&mode=1&hls=aHR0cHM6Ly9obHMubmluZ3hpYWh1YW5naGV5dW4uY29tL2xpdmUvbnh3bDFNLm0zdTg=
 宁夏少儿频道,http://111.170.156.74:3344/宁夏频道/nx.php?ua=YWxpcGxheWVyKGFwcHY9MS4xLjQmYXY9Ny4yLjAmYXYyPTcuMi4wXzQ0OTYxMzU3Jm9zPWFuZHJvaWQmb3Y9MTImZG09U00tQTU1NjAp&referer=aHR0cHM6Ly9hcGkuY2hpbmFhdWRpb3Zpc3VhbC5jbi8=&mode=1&hls=aHR0cHM6Ly9obHMubmluZ3hpYWh1YW5naGV5dW4uY29tL2xpdmUvbnhzZTFNLm0zdTg=
+
 
