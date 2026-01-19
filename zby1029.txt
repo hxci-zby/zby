@@ -1,5 +1,5 @@
 快直播,#group#
-央视，#类型#
+央视,#genre#
 CCTV1综合,http://ottrrs.hl.chinamobile.com/PLTV/888888/224/3221226016/index.m3u8
 CCTV2财经,http://ottrrs.hl.chinamobile.com/PLTV/888888/224/3221225588/index.m3u8
 CCTV3综艺,http://ottrrs.hl.chinamobile.com/PLTV/888888/224/3221226021/index.m3u8
@@ -4913,6 +4913,7 @@ CGTN记录,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888
 佳木斯综合,http://[2409:8087:1a15:10d1::33]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
 大庆教育频道,http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8
 鹤岗新闻综合,http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
+
 
 
 
