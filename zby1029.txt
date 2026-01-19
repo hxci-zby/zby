@@ -4914,6 +4914,7 @@ CGTN记录,http://[2409:8087:1a15:10d1::34]/ottrrs.hl.chinamobile.com/PLTV/88888
 大庆教育频道,http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226523/index.m3u8
 鹤岗新闻综合,http://[2409:8087:1a15:10d1::31]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226534/index.m3u8
 酒店组播源,#group#
+
 辽宁组播,#genre#
 CCTV1HD,http://lihetl.com:9527/udp/232.0.0.27:8808
 CCTV1HD,http://c.qrjcwy.eu.org:8099/udp/232.0.0.27:8808
@@ -5060,6 +5061,7 @@ IPTV5,http://lihetl.com:9527/rtp/232.0.0.119:8872
 IPTV足球,http://lihetl.com:9527/rtp/232.0.0.91:8746
 地理,http://lihetl.com:9527/rtp/232.0.0.105:8826
 宜家购物HD,http://lihetl.com:9527/rtp/232.0.0.21:8838
+
 
 
 
