@@ -90,7 +90,7 @@ CCTV-14少儿,http://113.206.155.235:8003/udp/225.0.4.128:7980
 CCTV-15音乐,http://113.206.155.235:8003/udp/225.0.4.220:7980
 CCTV-17农业农村,http://113.206.155.235:8003/udp/225.0.4.179:7980
 CGTN英语,http://113.206.155.235:8003/udp/225.0.4.12:7980
-中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
+中国天气,http://124.77.202.8:49155/959986621
 CGTN英语,https://epg.pw/stream/eef2b281a9917d995116ada3ac32e08bb7646c69032836605df07796863a1cab.m3u8
 CGTN纪录,https://epg.pw/stream/31a9bf2ac753f3c4a820fe0fb1c8fbc9995d8c0dec874ff9e60a548e2cc896d2.m3u8
 CGTN俄语,https://epg.pw/stream/6121b01fb26a5be3ae517a1ab7310fb51948d1de596bb0f3cead41297bfa84b7.m3u8
