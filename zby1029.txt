@@ -541,6 +541,7 @@ CCTV-5+体育赛事,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTl
 密山综合,https://masterpull.hljtv.com/live/iYi97JTN.m3u8
 虎林综合,https://rmplive.hljtv.com/live/hulin.m3u8
 虎林综合,https://masterpull.hljtv.com/live/SJJAEqBS.m3u8
+佳木斯新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226451/index.m3u8
 佳木斯新闻综合,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226451/index.m3u8
 佳木斯新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226451
 佳木斯综合,https://masterpull.hljtv.com/live/l9wQtsVs.m3u8
