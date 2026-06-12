@@ -534,6 +534,7 @@ CCTV-5+体育赛事,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTl
 哈尔滨新闻综合,https://masterpull.hljtv.com/live/sPvVy8Ju.m3u8
 哈尔滨生活,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
 哈尔滨生活,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226526/index.m3u8
+哈尔滨影视,http://stream.hrbtv.net/yspd/sd/live.m3u8
 哈尔滨影视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226552/index.m3u8
 大庆新闻综合,https://stream1.freetv.fun/da-qing-xin-wen-zong-he-1.m3u8
 鸡东综合,https://rmplive.hljtv.com/live/jidong.m3u8
