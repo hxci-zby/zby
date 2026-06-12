@@ -680,6 +680,7 @@ CCTV-5+体育赛事,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTl
 嫩江综合,https://masterpull.hljtv.com/live/hrSfaA6T.m3u8
 五大连池市综合,https://rmplive.hljtv.com/live/wudalianchi.m3u8
 五大连池市综合,https://masterpull.hljtv.com/live/6ic4FFgF.m3u8
+牡丹江新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226422/index.m3u8
 牡丹江新闻综合,https://stream1.freetv.fun/15ac9986768640ce886a866359cf1f34e405e2edb353e894fc179e20f180d9f7.m3u8
 牡丹江新闻综合,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226422/index.m3u8
 尚志综合,https://rmplive.hljtv.com/live/shangzhi.m3u8
