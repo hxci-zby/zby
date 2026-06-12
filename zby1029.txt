@@ -532,6 +532,7 @@ CCTV-5+体育赛事,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTl
 哈尔滨新闻综合,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226434
 哈尔滨新闻综合,https://rmplive.hljtv.com/live/haerbin.m3u8
 哈尔滨新闻综合,https://masterpull.hljtv.com/live/sPvVy8Ju.m3u8
+哈尔滨生活,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226526/index.m3u8
 哈尔滨生活,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226526/index.m3u8
 哈尔滨影视,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226552/index.m3u8
 大庆新闻综合,https://stream1.freetv.fun/da-qing-xin-wen-zong-he-1.m3u8
@@ -546,6 +547,7 @@ CCTV-5+体育赛事,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTl
 黑河综合,https://rmplive.hljtv.com/live/heihe.m3u8
 黑河综合,rtmp://masterpull.hljtv.com/live/iyoENgSP.m3u8
 黑河综合,https://masterpull.hljtv.com/live/iyoENgSP.m3u8
+大兴安岭新闻综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226499/index.m3u8
 大兴安岭新闻综合,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226499/index.m3u8
 大兴安岭新闻综合,https://masterpull.hljtv.com/live/H2kVyS15.m3u8
 绥化综合,https://rmplive.hljtv.com/live/suihua.m3u8
@@ -616,6 +618,7 @@ CCTV-5+体育赛事,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTl
 宁安综合,https://masterpull.hljtv.com/live/BV2wr0vH.m3u8
 东宁综合,https://rmplive.hljtv.com/live/dongning.m3u8
 东宁综合,https://masterpull.hljtv.com/live/UQdxnsw8.m3u8
+漠河综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226535/index.m3u8
 漠河综合,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226535/index.m3u8
 漠河综合,https://masterpull.hljtv.com/live/rlVvbTZN.m3u8
 集贤综合,https://masterpull.hljtv.com/live/CyJ3RKND.m3u8
