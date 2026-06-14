@@ -347,7 +347,6 @@ CETV1,http://39.134.65.211/PLTV/88888888/224/3221225563/1.m3u8
 CETV1,http://39.134.65.213/PLTV/88888888/224/3221225563/1.m3u8
 CETV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 CETV1,http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
-
 🇨🇳黑龙江频道,#genre#
 黑龙江卫视,http://39.134.67.134/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226327/.m3u8
 黑龙江卫视,http://39.134.65.239/PLTV/88888888/224/3221226060/1.m3u8
@@ -510,7 +509,6 @@ CETV1,http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/2
 双鸭山综合,http://39.134.66.42:80/PLTV/88888888/224/3221226108/1.m3u8
 双鸭山综合,http://39.135.133.8/PLTV/88888888/224/3221226108/1.m3u8
 双鸭山综合,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226529/index.m3u8
-
 🇨🇳卫视频道,#genre#
 湖南卫视,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225610/.m3u8
 湖南卫视,http://39.134.65.211/PLTV/88888888/224/3221225506/1.m3u8
@@ -879,7 +877,6 @@ CETV1,http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/2
 北京纪实,http://39.134.67.147/wh7f454c46tw3656209816_-1863263129/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8?icpid=88888888&RTS=1749481274&from=5&hms_devid=979&online=1749481274&vqe=3
 内蒙古卫视,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225634/.m3u8
 内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
-
 🇨🇳数字电视,#genre#
 超级电视剧,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225716/.m3u8
 超级电视剧,http://39.134.65.211/PLTV/88888888/224/3221225637/1.m3u8
@@ -1142,7 +1139,6 @@ CETV1,http://[2409:8087:1a15:10d1::35]/ottrrs.hl.chinamobile.com/PLTV/88888888/2
 热播精选,http://39.134.65.200/PLTV/88888888/224/3221225521/1.m3u8
 热播精选,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8
 热播精选,http://39.134.67.72/wh7f454c46tw3765852393_1766829167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8?icpid=88888888&RTS=1749481384&from=5&hms_devid=163&online=1749481384&vqe=3
-
 🇨🇳体育频道,#genre#
 超级体育,http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225715/.m3u8
 超级体育,http://39.134.65.200/PLTV/88888888/224/3221225635/1.m3u8
