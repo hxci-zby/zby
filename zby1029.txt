@@ -560,6 +560,7 @@ CCTV-5+体育赛事,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTl
 尚志综合,https://masterpull.hljtv.com/live/EQnKvoc9.m3u8
 铁力综合,https://rmplive.hljtv.com/live/tieli.m3u8
 铁力综合,https://masterpull.hljtv.com/live/iUtbDFud.m3u8
+富裕综合,http://221.209.44.174:1980/hls/1001.m3u8
 富裕综合,https://rmplive.hljtv.com/live/fuyu.m3u8
 富裕综合,https://masterpull.hljtv.com/live/MKFLhcpa.m3u8
 绥滨综合,https://rmplive.hljtv.com/live/suibin.m3u8
