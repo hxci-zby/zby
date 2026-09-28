@@ -1,4 +1,4 @@
-﻿央视频道,#genre#
+🇨🇳﻿央视频道,#genre#
 CCTV-1综合,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227637/index.m3u8
 CCTV-1综合,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226190/index.m3u8
 CCTV-1综合,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226675/index.m3u8
@@ -89,7 +89,7 @@ CCTV世界地理,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227739/inde
 CCTV央视台球,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227711/index.m3u8
 CCTV央视文化精品,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227644/index.m3u8
 
-卫视频道,#genre#
+🇨🇳卫视频道,#genre#
 CHC动作电影,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227724/index.m3u8
 CHC家庭影院,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227727/index.m3u8
 CHC影迷电影,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227635/index.m3u8
@@ -211,7 +211,7 @@ CHC影迷电影,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227635/index
 浙江卫视,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226147/index.m3u8
 
 
-卫视4K,#genre#
+🇨🇳卫视4K,#genre#
 CCTV16奥林匹克4K,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227709/index.m3u8
 北京卫视4K,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227629/index.m3u8
 北京卫视4K,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227656/index.m3u8
@@ -226,7 +226,7 @@ CCTV16奥林匹克4K,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227709/
 
 
 
-辽宁地方,#genre#
+🇨🇳辽宁地方,#genre#
 辽宁卫视,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226156/index.m3u8
 辽宁卫视,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221226689/index.m3u8
 辽宁卫视,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227570/index.m3u8
@@ -260,7 +260,7 @@ CCTV16奥林匹克4K,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227709/
 盘锦都市,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227659/index.m3u8
 盘锦新闻综合,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227751/index.m3u8
 
-数字频道,#genre#
+🇨🇳数字频道,#genre#
 睛彩广场舞,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227590/index.m3u8
 睛彩竞技,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227670/index.m3u8
 睛彩篮球,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227673/index.m3u8
@@ -281,7 +281,7 @@ CCTV16奥林匹克4K,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227709/
 梨园频道,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227721/index.m3u8
 文物宝库,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227718/index.m3u8
 武术世界,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227708/index.m3u8
-咪咕视频,#genre#
+🇨🇳咪咕视频,#genre#
 咪视界01,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227439/index.m3u8
 咪视界02,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227409/index.m3u8
 咪视界03,http://hwottcdn1.ln.chinamobile.com/PLTV/11/224/3221227323/index.m3u8
